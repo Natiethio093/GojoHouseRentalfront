@@ -1,0 +1,56 @@
+.grid-item {
+    /* background-size: cover;
+    background-position: center; */
+    position: relative;
+  }
+  
+  .rounded-box {
+    position: absolute;
+    bottom: 10px; 
+    left: 20px; 
+    background-color: white;
+    border-radius: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: black;
+    border: 1px solid black;
+    }
+    
+    .rounded-box p{
+      opacity: 0.8;
+    }
+    .overview-list {
+      column-count: 2;
+      column-gap: 2rem;
+      max-height: 8rem;
+      overflow-y: auto;
+    }
+    .slider .slick-slide:not(.slick-active) {
+      display: none;
+    }
+    .slide-in-bottom {
+      animation: slideInBottom 0.3s ease-out forwards;
+    }
+    
+    @keyframes slideInBottom {
+      0% {
+        transform: translateY(0%);
+      }
+      100% {
+        transform: translateY(8%);
+      }
+    }
+    .custom-datepicker-popper {
+      /* border: 1px solid red; */
+      /* Add more styles as needed */
+    }
+    .motion-effect {
+      opacity: 0;
+      transform: translateY(-50%);
+      transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out;
+    }
+    .motion-effect.show {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    

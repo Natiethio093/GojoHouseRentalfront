@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Luxurious room",
+    "sqkm": "35sqm",
+    "detail1": "Accommodate",
+    "detail2": "1 king size bed and couch",
+    "detail3": "Non refundable,Breakfast included",
+    "image": "src/Components/Photos/bed7.jpg"
+  },
+  
+  {
+    "name": "Spacious double room",
+    "sqkm": "25sqm",
+    "detail1": "Accommodate",
+    "detail2": "1 king size bed",
+    "detail3": "Non refundable,Breakfast included",
+    "image": "src/Components/Photos/doublebed2.jpg"
+  },
+
+  {
+    "name": "Cozy bed room",
+    "sqkm": "18sqm",
+    "detail1": "Accommodate",
+    "detail2": "1 Queen size bed and couch",
+    "detail3": "Non refundable,Breakfast included",
+    "image": "src/Components/Photos/doublebed.jpg"
+  },
+
+  {
+    "name": "Comfortable single room",
+    "sqkm": "20sqm",
+    "detail1": "Accommodate",
+    "detail2": "1 king size bed",
+    "detail3": "Non refundable,Breakfast included",
+    "image": "src/Components/Photos/bed5.jpeg"
+  },
+
+ {
+    "name": "Cozy bed room",
+    "sqkm": "18sqm",
+    "detail1": "Accommodate",
+    "detail2": "1 Queen size bed and couch",
+    "detail3": "Non refundable,Breakfast included",
+    "image": "src/Components/Photos/doublebed.jpg"
+  },
+
+  {
+    "name": "Spacious double room",
+    "sqkm": "25sqm",
+    "detail1": "Accommodate",
+    "detail2": "1 king size bed",
+    "detail3": "Non refundable,Breakfast included",
+    "image": "src/Components/Photos/doublebed2.jpg"
+  },
+  
+  {
+    "name": "Spacious double room",
+    "sqkm": "25sqm",
+    "detail1": "Accommodate",
+    "detail2": "1 king size bed",
+    "detail3": "Non refundable,Breakfast included",
+    "image": "src/Components/Photos/doublebed.jpg"
+  }
+  
+]
